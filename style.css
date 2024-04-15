@@ -1,7 +1,14 @@
 * {
     font-family: sans-serif;
+    margin: 0%;
+    padding: 0%;
 }
-
+.check{
+    color: #6F42C1;
+}
+.checkk{
+    color: #6F42C1 !important;
+}
 .navbar {
     background: #F0ECF9;
 
@@ -39,6 +46,13 @@
 .card img{
     background: #E2D9F3 !important;
 }
-.son1{
-    height: 10% !important;
+.con{
+    background: #F8F5FC;
+
+}
+.pa{
+    background: #F8F5FC;
+}
+.three {
+    color: #6F42C1 !important;
 }
